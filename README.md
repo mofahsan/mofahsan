@@ -48,7 +48,7 @@ Currently, I’m part of **ONDC (Open Network for Digital Commerce)**, contribut
 ---
 
 ### 🧾 Certifications
-- 🥇 [Google Professional Cloud Developer](https://www.credential.net/)  
+- 🥇 [Google Professional Cloud Developer](https://www.credly.com/badges/46fc0be5-5d41-4445-8da8-1a7619792e62)  
 - 🎓 Master of Computer Applications (MCA), Quantum University  
 
 ---
