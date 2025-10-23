@@ -13,7 +13,7 @@ Currently, I’m part of **ONDC (Open Network for Digital Commerce)**, contribut
 - **Backend Engineering:** Node.js, Express.js, Java (Spring Boot), TypeScript  
 - **System Design & Architecture:** Microservices, REST/GraphQL APIs, Message Queues, Event-driven Design  
 - **DevOps & Cloud:** Docker, CI/CD (GitHub Actions, Jenkins), NGINX, AWS EC2, GCP, Shell Scripting  
-- **Databases:** PostgreSQL, MongoDB, MySQL, Prisma, Sequelize  
+- **Databases:** PostgreSQL, MongoDB, MySQL, Sql Server 
 - **Frontend (for integration):** React, Next.js  
 
 ---
