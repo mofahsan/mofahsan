@@ -4,7 +4,7 @@
 
 I’m a product-minded software engineer passionate about designing scalable, high-performance distributed systems. I specialize in **Node.js**, **Go (Golang)**, and **AWS/Kubernetes infrastructure**, acting as a force multiplier by bridging the gap between core application logic and resilient cloud deployments.
 
-Currently, I'm a Senior Engineer at **Wits Innovation Lab**, building robust integrations and scalable mock servers for the **ONDC (Open Network for Digital Commerce)** protocol.
+Currently, I'm a Senior Engineer at **Wits Innovation Lab**,
 
 ---
 
