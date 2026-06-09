@@ -1,75 +1,63 @@
 # 👋 Hey, I'm Mohd Ahsan  
 
-### 🚀 Backend & Cloud Engineer | Node.js · Java · DevOps | ~4 Years Experience  
+### 🚀 Senior Backend & Infrastructure Engineer | Node.js · Go · Cloud Architecture  
 
-I’m a backend-focused software engineer passionate about designing scalable, high-performance systems.  
-I specialize in **Node.js**, **Java (Spring Boot)**, and **DevOps automation**, with experience building distributed, cloud-native applications that handle thousands of requests per day.  
+I’m a product-minded software engineer passionate about designing scalable, high-performance distributed systems. I specialize in **Node.js**, **Go (Golang)**, and **AWS/Kubernetes infrastructure**, acting as a force multiplier by bridging the gap between core application logic and resilient cloud deployments.
 
-Currently, I’m part of **ONDC (Open Network for Digital Commerce)**, contributing to microservices, API design, and automation across **AWS** and **GCP**.
+Currently, I'm a Senior Engineer at **Wits Innovation Lab**, building robust integrations and scalable mock servers for the **ONDC (Open Network for Digital Commerce)** protocol.
 
 ---
 
 ### 🧠 What I Do
-- **Backend Engineering:** Node.js, Express.js, Java (Spring Boot), TypeScript  
-- **System Design & Architecture:** Microservices, REST/GraphQL APIs, Message Queues, Event-driven Design  
-- **DevOps & Cloud:** Docker, CI/CD (GitHub Actions, Jenkins), NGINX, AWS EC2, GCP, Shell Scripting  
-- **Databases:** PostgreSQL, MongoDB, MySQL, Sql Server 
-- **Frontend (for integration):** React, Next.js  
+- **Backend Engineering:** Node.js, Go (Golang), Express.js, REST APIs  
+- **System Architecture:** Distributed Systems, Event-Driven Design, Offline-Sync Logic, High Concurrency
+- **DevOps & Cloud:** AWS (EC2, S3, ALB), Kubernetes, Docker, GitHub Actions, NGINX
+- **Databases:** PostgreSQL, MS SQL Server, MongoDB, Complex SQL Optimization 
+- **Observability:** OpenTelemetry, Grafana, Loki, Jaeger, Tempo  
+
+---
+
+### 💻 My Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+</p>
 
 ---
 
 ### 💼 Experience Snapshot
-- 🧩 **ONDC (Open Network for Digital Commerce)** — Designed & deployed production-grade Node.js and Java services, automated CI/CD pipelines, and handled server orchestration using NGINX & shell scripts.  
-- 🧠 **Wits Innovation Lab** — Built REST/GraphQL APIs, implemented Prisma migrations, integrated AWS SDK & Firebase, and deployed multi-cloud applications.  
-- 💡 **ToXSL Technologies** — Developed reusable backend APIs, MongoDB backup utilities, and converted static web pages into dynamic React components.  
-
----
-
-### 🛠️ Tech Stack
-
-| Category | Tools & Frameworks |
-|-----------|-------------------|
-| **Languages** | JavaScript, TypeScript, Java, SQL, Bash |
-| **Backend** | Node.js, Express.js, Spring Boot |
-| **Databases** | PostgreSQL, MongoDB, MySQL |
-| **Cloud & DevOps** | AWS, GCP, Docker, NGINX, GitHub Actions, Jenkins |
-| **Frontend (for integration)** | React, Next.js |
-| **Others** | Shell scripting, CI/CD pipelines, System Design, Linux |
-
----
-
-### 🧩 Highlight Projects
-> (*Add pinned repositories for these later*)  
-
-- **🔐 ONDC Automation Framework** – Mock AA Server built with Node.js, TypeScript, and Docker to simulate ONDC API behavior.  
-- **📦 Finvu AA Service** – Automated account aggregator integration with Finvu using Node.js + GCP Compute Engine.  
-- **☁️ Cloud CI/CD Boilerplate** – Preconfigured GitHub Actions setup for Dockerized Node/Java apps with zero-downtime deployment.  
+- 🧩 **ONDC Protocol Architecture** — Architected a scalable Node.js mock server driven by YAML templates to simulate seller responses, supporting multiple concurrent domains and protocol versions.
+- ☁️ **Infrastructure Ownership** — Provisioned and managed AWS resources (EC2, S3, ALB), Kubernetes deployments, and automated CI/CD pipelines enabling zero-downtime rolling updates.
+- 🚀 **Complex Data Pipelines** — Executed a massive 70,000+ row data migration and rewrote heavy MS SQL Server stored procedures, dropping query latency significantly.
 
 ---
 
 ### 🧾 Certifications
-- 🥇 [Google Professional Cloud Developer](https://www.credly.com/badges/46fc0be5-5d41-4445-8da8-1a7619792e62)  
+- 🥇 [Google Professional Cloud Developer](https://www.credly.com/badges/46fc0be5-5d41-4445-8da8-1a7619792e62) (Issued 2024)
 - 🎓 Master of Computer Applications (MCA), Quantum University  
 
 ---
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/mofahsan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/mofahsan" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
-  <a href="mailto:ahsanshamsisa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mofahsan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/mofahsan" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:ahsanshamsisa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 💬 Fun Facts
-- 💻 I love optimizing APIs for performance and scalability.  
-- 🧩 I’m currently exploring **Java concurrency and Spring Cloud**.  
-- ⚡ Outside work, I enjoy fitness, travel, and building tools that automate daily dev workflows.  
+- 💻 I love optimizing massive SQL queries and hunting down API bottlenecks.
+- ⚡ Outside work, I enjoy fitness, travel, and leveraging AI tools to automate daily dev workflows.  
 
 ---
-
-> 🧠 *“Write code that scales systems, not just solves tickets.”*  
-
----
-
